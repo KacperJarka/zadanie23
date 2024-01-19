@@ -4,6 +4,6 @@
 int main()
 {
     printf("Hello world!\n");
-     printf("Kacper jarka");
+     printf("Kacper jarka\nKrystian Œniegoski");
     return 0;
 }
